@@ -462,7 +462,7 @@ footer {
     background: #1b1b1b;
     color: var(--white-color);
     padding: 60px 20px; 
-    background-image:  url("image/buildings2.jpg");  
+    background-image:  url("../image/buildings2.jpg");  
 }
 
 .footer_section {
