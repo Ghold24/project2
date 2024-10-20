@@ -135,7 +135,7 @@ label .close_btn {
 .hero_section {
     min-height: 100vh;
     background: #36454F;
-    background-image: url(../images/bg-buildings.png);
+    background-image: url(images/bg-buildings.png);
 
 }
 
@@ -463,7 +463,7 @@ footer {
     background: #1b1b1b;
     color: var(--white-color);
     padding: 60px 20px; 
-    background-image:  url("../images/bg-buildings2.png");  
+    background-image:  url("images/bg-buildings2.png");  
 }
 
 .footer_section {
