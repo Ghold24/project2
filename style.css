@@ -136,11 +136,7 @@ label .close_btn {
     min-height: 100vh;
     background: #36454F;
     background-image: url("../images/bg-buildings.png");
-    background-position: bottom;
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    padding: 0 20px;
+    
 }
 
 .hero_container {
